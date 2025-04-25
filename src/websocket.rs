@@ -1,5 +1,3 @@
-mod client;
-
 use tokio::net::UdpSocket;
 use tokio::time::{self, Duration};
 use std::collections::HashSet;
